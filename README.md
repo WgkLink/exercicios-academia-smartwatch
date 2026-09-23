@@ -34,12 +34,12 @@ Taxa nominal de 100 Hz e **efetiva de ~57 Hz**: cerca de 7% dos intervalos têm 
 
 ## Protocolo de coleta
 
-- **Sujeito:** 1 pessoa. Relógio Galaxy Watch 4 no **pulso esquerdo**, sempre na mesma posição.
+- **Sujeitos:** 2 pessoas, uma em cada conjunto: a sessão de **treino** foi gravada por uma pessoa e a de **teste** por outra. Relógio Galaxy Watch 4 no **pulso esquerdo** nas duas, sempre na mesma posição, com os mesmos exercícios, as mesmas máquinas e as mesmas cargas.
 - **Registro:** app Sensor Logger 1.66, com o celular SM-G991B recebendo os dados do relógio; sensor `Watch Accelerometer`.
 - **Local:** academia Sou Mais Murici, em São José dos Pinhais (PR).
 - **Execução:** cada gravação começa e termina com o braço parado e contém **10 repetições**, com duração média de 28 s. A contagem foi conferida por uma segunda pessoa durante a coleta.
 - **Independência:** cada série é uma gravação separada, com descanso entre elas; os exercícios foram alternados dentro de cada sessão.
-- **Divisão treino/teste:** por sessão. Treino em 21/09/2026 e teste em 22/09/2026, com o relógio recolocado e outro estado de cansaço. Nenhuma gravação de teste compartilha a sessão com o treino.
+- **Divisão treino/teste:** **por pessoa**. Treino em 21/09/2026 com a pessoa A e teste em 22/09/2026 com a pessoa B. Nenhuma gravação de teste veio da mesma pessoa nem do mesmo dia do treino, então o conjunto de teste mede a generalização para um sujeito novo.
 
 ## Código
 
