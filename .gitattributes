@@ -1,0 +1,2 @@
+# Mantém os CSVs de dados exatamente como saíram do app, sem conversão de quebra de linha
+*.csv -text
