@@ -36,7 +36,7 @@ Taxa nominal de 100 Hz e **efetiva de ~57 Hz**: cerca de 7% dos intervalos têm 
 
 - **Sujeito:** 1 pessoa. Relógio Galaxy Watch 4 no **pulso esquerdo**, sempre na mesma posição.
 - **Registro:** app Sensor Logger 1.66, com o celular SM-G991B recebendo os dados do relógio; sensor `Watch Accelerometer`.
-- **Local:** academia, em Murici.
+- **Local:** academia Sou Mais Murici, em São José dos Pinhais (PR).
 - **Execução:** cada gravação começa e termina com o braço parado e contém **10 repetições**, com duração média de 28 s. A contagem foi conferida por uma segunda pessoa durante a coleta.
 - **Independência:** cada série é uma gravação separada, com descanso entre elas; os exercícios foram alternados dentro de cada sessão.
 - **Divisão treino/teste:** por sessão. Treino em 21/09/2026 e teste em 22/09/2026, com o relógio recolocado e outro estado de cansaço. Nenhuma gravação de teste compartilha a sessão com o treino.
