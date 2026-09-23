@@ -4,7 +4,7 @@ Conjunto de séries temporais rotuladas para classificação de 3 exercícios de
 
 | Classe | Pasta | Execução | Carga |
 |---|---|---|---|
-| Rosca bíceps | `rosca` | polia | 5 kg |
+| Bíceps rosca | `rosca` | polia | 5 kg |
 | Elevação lateral | `elevacao` | halteres | 3 kg |
 | Tríceps | `triceps` | polia | 5 kg |
 
@@ -45,4 +45,4 @@ Taxa nominal de 100 Hz e **efetiva de ~57 Hz**: cerca de 7% dos intervalos têm 
 
 O notebook que usa este conjunto de dados (pré-processamento, baseline 1NN-DTW, MiniROCKET, acurácia e matrizes de confusão) está no Google Colab: **https://colab.research.google.com/drive/1I4Vc6lhRaAe0GS0JJWMbSNPkI-o9MkyC?usp=sharing**. Ele baixa este repositório com `git clone` e roda de ponta a ponta.
 
-Resultados no conjunto de teste: **90,0%** de acurácia com o baseline 1NN-DTW (janela 0,05) e **93,3%** com o MiniROCKET (1000 kernels). Todos os erros ocorreram entre rosca e tríceps; a elevação lateral foi classificada corretamente em todas as séries.
+Resultados no conjunto de teste: **90,0%** de acurácia com o baseline 1NN-DTW (janela 0,05) e **93,3%** com o MiniROCKET (1000 kernels). Todos os erros ocorreram entre bíceps rosca e tríceps; a elevação lateral foi classificada corretamente em todas as séries.
